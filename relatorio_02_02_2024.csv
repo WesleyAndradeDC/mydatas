@@ -1,0 +1,844 @@
+Vendedor;Produto;Código;Qtde;Preço Médio;Valor;Frete;Desconto;Outras despesas;Total Venda;Custo;Lucro
+darly  ;Bermuda Dri-fit Premium;;1;77,00;77;0;7;0;70;0;-
+darly  ;Bermuda Elastano;;1;65,00;65;0;17,39;0;47,61;32;15,61
+darly  ;Bermuda Jeans;;3;65,00;195;0;26,75;0;168,25;81;87,25
+darly  ;Boné Anth-Co;;1;55,00;55;0;15;0;40;21,7;18,3
+darly  ;Bone five panel;;1;44,00;44;0;4,95;0;39,05;20;19,05
+darly  ;Boné Premium;;2;44,00;88;0;0;0;88;36;52
+darly  ;Bucket Premium;;2;77,00;154;0;28;0;126;70;56
+darly  ;Camisa Chronic;;4;82,00;328;0;58,58;0;269,42;137,16;132,26
+darly  ;Camisa Peruana;;4;88,00;352;0;64,39;0;287,61;148;139,61
+darly  ;Camisa Polo;;5;77,00;385;0;28;0;357;165;192
+darly  ;Camisa Premium;;1;55,00;55;0;0;0;55;23;32
+darly  ;Camisa Stret;;4;60,00;240;0;28,28;0;211,72;100;111,72
+darly  ;Carteira Simples;;1;33,00;33;0;3;0;30;16;14
+darly  ;Corrente De Prata 2 MM;;1;110,00;110;0;24,29;0;85,71;45;40,71
+darly  ;jeans original branca;;1;110,00;110;0;24,29;0;85,71;50;35,71
+darly  ;Kenner rakka full force;;1;150,00;150;0;10;0;140;0;-
+darly  ;Oculos Juliett;;1;132,00;132;0;36;0;96;60;36
+darly  ;Oculos Oakley;;2;50,00;100;0;4,55;0;95,45;34;61,45
+darly  ;Polo Chronic;;1;110,00;110;0;30;0;80;45,5;34,5
+darly  ;Polo Gucci;;1;55,00;55;0;5;0;50;25;25
+darly  ;Polo Peruana;;2;110,00;220;0;36,21;0;183,79;108;75,79
+darly  ;Regata  Premium;;1;55,00;55;0;14,72;0;40,28;22;18,28
+darly  ;regata basquete;;1;50,00;50;0;2,82;0;47,18;22;25,18
+darly  ;Regata Dri-fit;;1;44,00;44;0;8,46;0;35,54;20;15,54
+darly  ;Short Cargo;;1;77,00;77;0;7;0;70;32;38
+darly  ;Short Dri-fit Premium;;2;88,00;176;0;15,77;0;160,23;80;80,23
+darly  ;Short Impermeável;;1;55,00;55;0;4,58;0;50,42;23;27,42
+darly  ;Short Mauricinho Liso;;2;44,00;88;0;4,97;0;83,03;40;43,03
+ially  ;Anel Moeda Antiga;;2;55,00;110;0;20;0;90;70;20
+ially  ;Anel Prata De Redondo;;3;77,00;231;0;52,43;0;178,57;96;82,57
+ially  ;Bag Premium;;2;50,00;100;0;19;0;81;46;35
+ially  ;bermuda Dri-fit;;4;50,00;200;0;37,6;0;162,4;200;-37,6
+ially  ;Bermuda Dri-fit Premium;;2;77,00;154;0;20,13;0;133,87;0;-
+ially  ;Bermuda Drifit EXGG;;5;53,00;265;0;70,67;0;194,33;100;94,33
+ially  ;Bermuda Drifit Gucci;;6;55,00;330;0;50,55;0;279,45;150;129,45
+ially  ;Bermuda Elastano;;11;65,00;715;0;101,82;0;613,18;352;261,18
+ially  ;Bermuda Jeans;;11;65,00;715;0;91,66;0;623,34;297;326,34
+ially  ;Bermuda Jeans EXGG;;4;88,00;352;0;28,46;0;323,54;152;171,54
+ially  ;bermuda premium;;1;77,00;77;0;20,01;0;56,99;35;21,99
+ially  ;Bermuda Via Moda;;1;110,00;110;0;20;0;90;45;45
+ially  ;Blusão Moletom;;1;150,00;150;0;38,99;0;111,01;65;46,01
+ially  ;Bolsa  T60;;1;120,00;120;0;3,5;0;116,5;60;56,5
+ially  ;Boné Anth-Co;;17;55,00;935;0;175,17;0;759,83;368,9;390,93
+ially  ;bone cyclone;;1;65,00;65;0;5;0;60;30;30
+ially  ;Bone de Grife;;2;55,00;110;0;25;0;85;0;-
+ially  ;Boné De Tela;;2;38,00;76;0;5,77;0;70,23;32;38,23
+ially  ;Bone five panel;;1;44,00;44;0;4,25;0;39,75;20;19,75
+ially  ;Boné Premium;;11;44,00;484;0;62,21;0;421,79;198;223,79
+ially  ;Brinco  De Prata 15;;1;15,00;15;0;3;0;12;7;5
+ially  ;Brinco De Prata 20;;4;20,00;80;0;14,06;0;65,94;40;25,94
+ially  ;Brinco Prata 25;;2;25,00;50;0;7;0;43;24;19
+ially  ;Bucket Premium;;7;77,00;539;0;92,01;0;446,99;245;201,99
+ially  ;Bvlgari Roleta;;2;240,00;480;0;97,9;0;382,1;210;172,1
+ially  ;Calça Jeans;;4;88,00;352;0;79,11;0;272,89;160;112,89
+ially  ;Calça Jogger;;7;100,00;700;0;72,71;0;627,29;315;312,29
+ially  ;Camisa Chronic;;6;82,00;492;0;121,52;0;370,48;205,74;164,74
+ially  ;Camisa De Time;;7;62,00;434;0;59,34;0;374,66;0;-
+ially  ;Camisa Dri-fit;;7;44,00;308;0;88,45;0;219,55;119;100,55
+ially  ;Camisa EXGG;;3;77,00;231;0;44,47;0;186,53;96;90,53
+ially  ;Camisa Peruana;;4;88,00;352;0;59,41;0;292,59;148;144,59
+ially  ;Camisa Polo;;11;77,00;847;0;94,49;0;752,51;363;389,51
+ially  ;Camisa Premium;;22;55,00;1210;0;211,1;0;998,9;506;492,9
+ially  ;Camisa Stret;;23;60,00;1380;0;222,21;0;1157,79;575;582,79
+ially  ;Camisa Surf;;23;38,00;874;0;167,12;0;706,88;368;338,88
+ially  ;Carteira Grif;;1;44,00;44;0;12;0;32;18;14
+ially  ;Carteira Simples;;5;36,00;180;0;29,94;0;150,06;80;70,06
+ially  ;cinto grife;;2;38,00;76;0;6;0;70;0;-
+ially  ;conjunto de time;;7;135,00;945;0;126,57;0;818,43;420;398,43
+ially  ;Copo Stanley;;3;44,00;132;0;22;0;110;60;50
+ially  ;Corente Prata 80 CM 3,5;;1;220,00;220;0;67,73;0;152,27;220;-67,73
+ially  ;Corrente  De Prata 3,5 MM;;2;176,00;352;0;96;0;256;160;96
+ially  ;corrente 80;;1;220,00;220;0;40;0;180;0;-
+ially  ;Corrente De Moeda 100;;1;110,00;110;0;10;0;100;45;55
+ially  ;Corrente De Prata 1,5 MM;;2;77,00;154;0;42;0;112;60;52
+ially  ;Corrente De Prata 2 MM;;4;110,00;440;0;120;0;320;180;140
+ially  ;Corrente De Prata 4 MM;;1;240,00;240;0;64;0;176;110;66
+ially  ;Corrente De Prata 6 MM;;2;440,00;880;0;238,58;0;641,42;410;231,42
+ially  ;Corrente Moeda 130;;1;145,00;145;0;9,26;0;135,74;65;70,74
+ially  ;Corrente Moeda 70;;2;77,00;154;0;14;0;140;70;70
+ially  ;Corta Vento;;1;130,00;130;0;34;0;96;58;38
+ially  ;Cueca Chinesa;;3;20,00;60;0;15,43;0;44,57;30;14,57
+ially  ;Cueca Simples;;22;12,00;264;0;71,82;0;192,18;88;104,18
+ially  ;Cuecas Algodão;;12;21,50;258;0;73,53;0;184,47;96;88,47
+ially  ;Cuia;;1;20,00;20;0;0;0;20;8;12
+ially  ;Dechavador;;3;5,00;15;0;2,54;0;12,46;6;6,46
+ially  ;Dri-fit Recortada;;6;55,00;330;0;56,3;0;273,7;120;153,7
+ially  ;Gas Completar;;4;2,00;8;0;0,17;0;7,83;8;-0,17
+ially  ;Invicta Roleta;;1;240,00;240;0;35;0;205;240;-35
+ially  ;Kenner Diamante;;1;150,00;150;0;10;0;140;70;70
+ially  ;kenner kivah;;1;130,00;130;0;2,78;0;127,22;55;72,22
+ially  ;Kenner Kivah;;3;150,00;450;0;116,35;0;333,65;195;138,65
+ially  ;kenner Rakka;;3;150,00;450;0;65,06;0;384,94;450;-65,06
+ially  ;Kit Cueca;;4;77,00;308;0;69,51;0;238,49;132;106,49
+ially  ;Lente Transparente;;1;100,00;100;0;9,09;0;90,91;45;45,91
+ially  ;Maquina De Cabelo;;3;44,00;132;0;31,6;0;100,4;132;-31,6
+ially  ;Meia;;3;10,00;30;0;0,29;0;29,71;12,75;16,96
+ially  ;Meia Longa;;9;5,00;45;0;1,44;0;43,56;16,47;27,09
+ially  ;Mochila Nike;;2;110,00;220;0;40,66;0;179,34;100;79,34
+ially  ;Oculos De Sol;;1;38,00;38;0;0;0;38;7;31
+ially  ;Oculos Juliett;;2;132,00;264;0;51,64;0;212,36;120;92,36
+ially  ;Oculos Oakley;;2;50,00;100;0;18,72;0;81,28;34;47,28
+ially  ;Oculos Vilão;;1;66,00;66;0;6;0;60;30;30
+ially  ;Oversized Use BB;;3;110,00;330;0;30;0;300;162;138
+ially  ;Papel De Presente;;15;2,00;30;0;6,21;0;23,79;7,5;16,29
+ially  ;Perfume Base De Oleo;;5;38,00;190;0;43,8;0;146,2;60;86,2
+ially  ;Perfume Similar;;6;30,00;180;0;28,33;0;151,67;78;73,67
+ially  ;Pingente De Prata;;3;55,00;165;0;35;0;130;69;61
+ially  ;Pingente Pedraria;;1;90,00;90;0;5,75;0;84,25;40;44,25
+ially  ;Piteira Curta;;2;3,00;6;0;0;0;6;3,58;2,42
+ially  ;Pochete;;2;55,00;110;0;10;0;100;50;50
+ially  ;Polo Chronic;;2;99,00;198;0;59,45;0;138,55;91;47,55
+ially  ;Polo Gucci;;3;55,00;165;0;26,05;0;138,95;75;63,95
+ially  ;Polo Peruana;;1;110,00;110;0;25,7;0;84,3;54;30,3
+ially  ;Pulseira  De Prata 5 MM;;1;110,00;110;0;30;0;80;48;32
+ially  ;Pulseira De Moeda 50;;2;66,00;132;0;17;0;115;70;45
+ially  ;Pulseira De Prata 2MM;;1;66,00;66;0;18;0;48;28;20
+ially  ;Pulseira De Prata 4 mm;;2;88,00;176;0;44,02;0;131,98;80;51,98
+ially  ;Pulseira De Prata 7 MM;;2;176,00;352;0;96;0;256;0;-
+ially  ;Pulseira Moeda 70;;1;55,00;55;0;15;0;40;25;15
+ially  ;Regata;;5;44,00;220;0;51,63;0;168,37;100;68,37
+ially  ;Regata;;3;45,00;135;0;9,9;0;125,1;57;68,1
+ially  ;Regata  Premium;;10;55,00;550;0;74,14;0;475,86;220;255,86
+ially  ;Regata Americana;;14;55,00;770;0;107,89;0;662,11;322;340,11
+ially  ;Regata Basquete;;7;53,57;375;0;33,61;0;341,39;0;-
+ially  ;Regata Dri-fit;;5;44,00;220;0;29,27;0;190,73;100;90,73
+ially  ;Relogio Atlantis;;3;143,00;429;0;65,52;0;363,48;165;198,48
+ially  ;Relógio Pointer;;4;90,00;360;0;51,14;0;308,86;160;148,86
+ially  ;Relogio Xufeng;;2;66,00;132;0;35,56;0;96,44;60;36,44
+ially  ;Sandalia Premium;;1;40,00;40;0;5,9;0;34,1;18;16,1
+ially  ;Sandalia Slide;;2;55,00;110;0;10;0;100;32;68
+ially  ;Seda Bem Bolado;;4;5,00;20;0;0;0;20;9,04;10,96
+ially  ;Short Cargo;;3;77,00;231;0;41,59;0;189,41;96;93,41
+ially  ;Short Cargo Premium;;1;110,00;110;0;30;0;80;50;30
+ially  ;Short Dri-fit Premium;;6;88,00;528;0;119,46;0;408,54;240;168,54
+ially  ;Short Impermeável;;2;55,00;110;0;13,02;0;96,98;46;50,98
+ially  ;Short Jeans Premium;;4;82,00;328;0;41,29;0;286,71;140;146,71
+ially  ;Short Premium;;5;93,00;465;0;49,14;0;415,86;210;205,86
+ially  ;spy cara de gato;;1;55,00;55;0;15;0;40;25;15
+ially  ;Tênis;;1;100,00;100;0;10;0;90;40;50
+ially  ;;;37;-;2892;0;201;0;2691;1167,5;1.523,50
+ially  ;Bermuda Jeans;;2;65,00;130;0;5,42;0;124,58;54;70,58
+ially  ;Boné Premium;;1;44,00;44;0;4;0;40;18;22
+ially  ;Brinco De Prata 30;;1;30,00;30;0;0;0;30;13;17
+ially  ;Calça Cargo;;2;120,00;240;0;20;0;220;110;110
+ially  ;Camisa Peruana;;2;88,00;176;0;0;0;176;74;102
+ially  ;Camisa Premium;;3;55,00;165;0;14,4;0;150,6;69;81,6
+ially  ;Camisa Stret;;2;60,00;120;0;5;0;115;50;65
+ially  ;Camisa Surf;;1;38,00;38;0;0;0;38;16;22
+ially  ;Copo Stanley;;1;44,00;44;0;4;0;40;20;20
+ially  ;Diferença De Troca;;1;50,00;50;0;30;0;20;0;-
+ially  ;kenner kivah;;2;130,00;260;0;19,55;0;240,45;110;130,45
+ially  ;Kenner rakka full force;;1;150,00;150;0;11,02;0;138,98;0;-
+ially  ;kenner rakkab branca;;1;170,00;170;0;10;0;160;65;95
+ially  ;Maçarico;;1;20,00;20;0;5;0;15;10,5;4,5
+ially  ;Oculos De Sol;;1;33,00;33;0;2,43;0;30,57;15;15,57
+ially  ;Oculos Juliett;;1;132,00;132;0;12;0;120;60;60
+ially  ;Polo Peruana;;1;110,00;110;0;10;0;100;54;46
+ially  ;Regata Americana;;2;55,00;110;0;10;0;100;46;54
+ially  ;Relogio G-Shock;;1;88,00;88;0;8;0;80;40;40
+ially  ;Relógio Pointer;;1;90,00;90;0;0;0;90;40;50
+ially  ;Relogio Xufeng;;1;66,00;66;0;0;0;66;30;36
+ially  ;Sandalia Premium;;1;40,00;40;0;0;0;40;18;22
+ially  ;Short Dri-fit Premium;;2;88,00;176;0;16;0;160;80;80
+ially  ;Short Jeans Premium;;5;82,00;410;0;14,18;0;395,82;175;220,82
+ially  ;;;589;-;39338;0;7080;0;32258;16491,84;15.766,16
+ially  ;Anel De Prata Marciço;;1;132,00;132;0;36;0;96;0;-
+ially  ;Anel Moeda Antiga;;4;57,50;230;0;45;0;185;140;45
+ially  ;Anel pedraria;;3;78,00;234;0;23,62;0;210,38;102;108,38
+ially  ;Bag Peitoral;;1;100,00;100;0;9,09;0;90,91;45;45,91
+ially  ;Bag Premium;;2;50,00;100;0;14;0;86;46;40
+ially  ;Bermuda Brim;;2;66,00;132;0;12;0;120;0;-
+ially  ;bermuda Dri-fit;;1;50,00;50;0;3,98;0;46,02;18;28,02
+ially  ;Bermuda Dri-fit Premium;;1;77,00;77;0;21,72;0;55,28;0;-
+ially  ;Bermuda Drifit EXGG;;4;53,75;215;0;13,81;0;201,19;80;121,19
+ially  ;Bermuda Drifit Gucci;;4;55,00;220;0;19,48;0;200,52;100;100,52
+ially  ;Bermuda Elastano;;23;65,00;1495;0;312,93;0;1182,07;736;446,07
+ially  ;Bermuda Jeans;;11;65,00;715;0;85,9;0;629,1;297;332,1
+ially  ;Bermuda Jeans EXGG;;2;88,00;176;0;48;0;128;76;52
+ially  ;Blusão Moletom;;2;135,00;270;0;10;0;260;130;130
+ially  ;Boné Anth-Co;;21;55,00;1155;0;247,26;0;907,74;455,7;452,04
+ially  ;bone cyclone;;5;65,00;325;0;49,91;0;275,09;150;125,09
+ially  ;Bone de Grife;;3;55,00;165;0;45,45;0;119,55;0;-
+ially  ;Boné De Tela;;3;38,00;114;0;6;0;108;48;60
+ially  ;Bone five panel;;4;44,00;176;0;12;0;164;80;84
+ially  ;Boné Premium;;15;44,00;660;0;111,12;0;548,88;270;278,88
+ially  ;Brinco  De Prata 15;;3;15,00;45;0;0;0;45;21;24
+ially  ;Brinco De Prata 20;;1;20,00;20;0;5,07;0;14,93;10;4,93
+ially  ;Brinco De Prata 30;;4;30,00;120;0;10,01;0;109,99;52;57,99
+ially  ;Brinco Desenho;;5;30,00;150;0;15,73;0;134,27;0;-
+ially  ;Brinco Prata 25;;3;25,00;75;0;11,64;0;63,36;36;27,36
+ially  ;Bucket Premium;;9;77,00;693;0;105,39;0;587,61;315;272,61
+ially  ;Calça Cargo;;7;120,00;840;0;128,74;0;711,26;385;326,26
+ially  ;Calça Jeans;;1;88,00;88;0;24;0;64;40;24
+ially  ;Calça Jogger;;8;100,00;800;0;76,51;0;723,49;360;363,49
+ially  ;Camisa Chronic;;19;82,00;1558;0;217,08;0;1340,92;651,51;689,41
+ially  ;Camisa De Time;;8;57,13;457;0;44,36;0;412,64;0;-
+ially  ;Camisa EXGG;;4;77,00;308;0;0;0;308;136;172
+ially  ;Camisa Peruana;;7;88,00;616;0;106,08;0;509,92;259;250,92
+ially  ;Camisa Polo;;8;77,00;616;0;68,45;0;547,55;264;283,55
+ially  ;Camisa Premium;;47;55,00;2585;0;552,55;0;2032,45;1081;951,45
+ially  ;Camisa Stret;;8;60,00;480;0;71,19;0;408,81;200;208,81
+ially  ;Camisa Surf;;16;38,00;608;0;134,67;0;473,33;256;217,33
+ially  ;Camisa Uv;;2;60,00;120;0;12;0;108;54;54
+ially  ;Carteira Grif;;1;44,00;44;0;12;0;32;18;14
+ially  ;Carteira Simples;;4;34,25;137;0;29,1;0;107,9;64;43,9
+ially  ;cinto;;1;22,00;22;0;2;0;20;10;10
+ially  ;cinto grife;;1;38,00;38;0;3;0;35;0;-
+ially  ;conjunto de time;;3;135,00;405;0;27,93;0;377,07;180;197,07
+ially  ;Conjunto Polo;;1;155,00;155;0;43;0;112;70;42
+ially  ;Copo Stanley;;14;44,00;616;0;124;0;492;280;212
+ially  ;Corrente  De Prata 3,5 MM;;3;176,00;528;0;137,78;0;390,22;240;150,22
+ially  ;corrente 80;;2;220,00;440;0;120;0;320;0;-
+ially  ;Corrente De Moeda 100;;1;110,00;110;0;30,8;0;79,2;45;34,2
+ially  ;Corrente De Prata 1,5 MM;;3;77,00;231;0;56;0;175;90;85
+ially  ;Corrente De Prata 2 MM;;9;110,00;990;0;246,07;0;743,93;405;338,93
+ially  ;Corrente De Prata 4 MM;;2;240,00;480;0;17,78;0;462,22;220;242,22
+ially  ;Corrente De Prata 5 MM;;2;360,00;720;0;192,87;0;527,13;330;197,13
+ially  ;Corrente De Prata 6 MM;;2;440,00;880;0;120;0;760;410;350
+ially  ;Corrente Dubai;;1;200,00;200;0;45,52;0;154,48;100;54,48
+ially  ;Corrente Friso S;;1;200,00;200;0;20,69;0;179,31;90;89,31
+ially  ;Corrente Moeda 70;;1;77,00;77;0;7;0;70;35;35
+ially  ;Corta Vento;;1;130,00;130;0;34;0;96;58;38
+ially  ;Cueca Chinesa;;3;20,00;60;0;17,06;0;42,94;30;12,94
+ially  ;Cueca Simples;;20;12,00;240;0;64,88;0;175,12;80;95,12
+ially  ;Cuecas Algodão;;6;22,00;132;0;34,92;0;97,08;48;49,08
+ially  ;Cuia;;1;20,00;20;0;3,85;0;16,15;8;8,15
+ially  ;Dechavador;;2;5,00;10;0;0;0;10;4;6
+ially  ;Diferença De Troca;;3;50,00;150;0;84;0;66;0;-
+ially  ;Dri-fit Recortada;;4;55,00;220;0;39,48;0;180,52;80;100,52
+ially  ;enchimento;;1;2,00;2;0;0;0;2;0;-
+ially  ;Escapulario Prata;;3;110,00;330;0;85;0;245;150;95
+ially  ;Gas Completar;;3;2,00;6;0;0;0;6;6;0
+ially  ;jeans original branca;;1;110,00;110;0;30;0;80;50;30
+ially  ;Kenner  Rakka Full Force;;1;150,00;150;0;27,13;0;122,87;65;57,87
+ially  ;kenner kivah;;3;130,00;390;0;101,43;0;288,57;165;123,57
+ially  ;Kenner Kivah;;5;146,00;730;0;156,22;0;573,78;325;248,78
+ially  ;Kit Cueca;;7;77,00;539;0;130,1;0;408,9;231;177,9
+ially  ;Lente Transparente;;1;100,00;100;0;10;0;90;45;45
+ially  ;Maçarico;;3;20,00;60;0;5,48;0;54,52;31,5;23,02
+ially  ;Maquina De Cabelo;;8;44,13;353;0;76,85;0;276,15;352;-75,85
+ially  ;Meia;;5;10,00;50;0;3,5;0;46,5;21,25;25,25
+ially  ;Meia Longa;;11;5,00;55;0;1,57;0;53,43;20,13;33,3
+ially  ;Melzinho;;1;25,00;25;0;5;0;20;7,92;12,08
+ially  ;Mochila Nike;;3;110,00;330;0;60;0;270;150;120
+ially  ;Oculos De Sol;;4;36,75;147;0;30,66;0;116,34;60;56,34
+ially  ;Oculos Juliett;;9;132,00;1188;0;268;0;920;540;380
+ially  ;Oculos Oakley;;8;50,00;400;0;86,51;0;313,49;136;177,49
+ially  ;Pallyjane;;1;70,00;70;0;14;0;56;70;-14
+ially  ;Papel De Presente;;5;2,00;10;0;1,9;0;8,1;2,5;5,6
+ially  ;Perfume Base De Oleo;;2;38,00;76;0;17,19;0;58,81;24;34,81
+ially  ;Pingente De Moeda Antiga  G;;1;77,00;77;0;21;0;56;35;21
+ially  ;Pingente De Prata;;10;55,00;550;0;106,94;0;443,06;230;213,06
+ially  ;Pingente Moeda Antiga  P;;1;55,00;55;0;5;0;50;24;26
+ially  ;Pingente Pedraria;;3;90,00;270;0;54,99;0;215,01;120;95,01
+ially  ;Piteira Curta;;3;3,00;9;0;1,34;0;7,66;5,37;2,29
+ially  ;Pochete;;3;55,00;165;0;45;0;120;75;45
+ially  ;Polo Chronic;;3;88,00;264;0;24;0;240;136,5;103,5
+ially  ;Polo Gucci;;4;55,00;220;0;19,48;0;200,52;100;100,52
+ially  ;Polo Peruana;;1;110,00;110;0;29,46;0;80,54;54;26,54
+ially  ;Pulseira  De Prata 5 MM;;1;110,00;110;0;12;0;98;48;50
+ially  ;Pulseira De Moeda 50;;2;55,00;110;0;10,38;0;99,62;46;53,62
+ially  ;Pulseira De Prata 2MM;;8;66,00;528;0;131,93;0;396,07;224;172,07
+ially  ;Pulseira De Prata 4 mm;;2;88,00;176;0;48;0;128;80;48
+ially  ;Regata;;1;45,00;45;0;4,5;0;40,5;19;21,5
+ially  ;Regata  Premium;;7;55,00;385;0;92,84;0;292,16;154;138,16
+ially  ;Regata Americana;;10;55,00;550;0;74,43;0;475,57;230;245,57
+ially  ;Regata Basquete;;3;55,00;165;0;15;0;150;66;84
+ially  ;Regata Basquete  Chronic;;1;93,00;93;0;0;0;93;41,76;51,24
+ially  ;Regata Dri-fit;;5;44,00;220;0;48;0;172;100;72
+ially  ;relogio atlantis femenino;;1;132,00;132;0;22;0;110;0;-
+ially  ;Relogio Bvlgari;;1;200,00;200;0;56;0;144;75;69
+ially  ;Relogio G-Shock;;3;92,67;278;0;60,85;0;217,15;120;97,15
+ially  ;Relógio Pointer;;8;93,75;750;0;134,67;0;615,33;320;295,33
+ially  ;Relogio Rolex;;2;190,00;380;0;95,38;0;284,62;130;154,62
+ially  ;Relogio Xufeng;;3;68,00;204;0;37;0;167;90;77
+ially  ;Relogio Yakuyza;;1;143,00;143;0;39;0;104;45;59
+ially  ;Sandalia Slide;;3;55,00;165;0;25;0;140;48;92
+ially  ;Seda Blunt;;1;10,00;10;0;0,74;0;9,26;5,2;4,06
+ially  ;Seda Zomo;;3;3,00;9;0;1,56;0;7,44;4,5;2,94
+ially  ;Short Cargo;;3;77,00;231;0;36,41;0;194,59;96;98,59
+ially  ;Short Cargo Premium;;1;110,00;110;0;30;0;80;50;30
+ially  ;Short Dri-fit Premium;;17;88,59;1506;0;193,67;0;1312,33;680;632,33
+ially  ;Short Impermeável;;1;55,00;55;0;15;0;40;23;17
+ially  ;Short Jeans Premium;;4;82,00;328;0;42,9;0;285,1;140;145,1
+ially  ;Short Linho premium;;1;66,00;66;0;17,71;0;48,29;25;23,29
+ially  ;Short Mauricinho Liso;;2;44,00;88;0;23,88;0;64,12;40;24,12
+ially  ;Short Premium;;9;93,00;837;0;102,83;0;734,17;378;356,17
+ially  ;Spy Premium;;5;55,00;275;0;54,94;0;220,06;115;105,06
+ially  ;Tênis;;1;100,00;100;0;11,16;0;88,84;40;48,84
+ially  ;Tênis Air Force;;1;93,00;93;0;0;0;93;37;56
+Castro  ;Anel De Prata Quadrado;;1;99,00;99;0;9;0;90;45;45
+Castro  ;Anel Moeda Antiga;;1;55,00;55;0;5,03;0;49,97;35;14,97
+Castro  ;Bag Premium;;2;50,00;100;0;15,54;0;84,46;40;44,46
+Castro  ;Bermuda Brim;;3;66,00;198;0;8,53;0;189,47;0;-
+Castro  ;Bermuda Dri-fit;;7;45,00;315;0;18,12;0;296,88;126;170,88
+Castro  ;Bermuda Dri-fit Premium;;5;77,00;385;0;17,55;0;367,45;0;-
+Castro  ;Bermuda Drifit EXGG;;1;50,00;50;0;3,98;0;46,02;20;26,02
+Castro  ;Bermuda Drifit Gucci;;7;55,00;385;0;30,9;0;354,1;175;179,1
+Castro  ;Bermuda Elastano;;13;65,00;845;0;89,84;0;755,16;377;378,16
+Castro  ;Bermuda Jeans;;31;65,00;2015;0;155,57;0;1859,43;868;991,43
+Castro  ;bermuda premium;;5;77,00;385;0;40,33;0;344,67;165;179,67
+Castro  ;bermuda sarja;;7;65,00;455;0;45,51;0;409,49;0;-
+Castro  ;Bermuda Via Moda;;6;105,00;630;0;63,09;0;566,91;270;296,91
+Castro  ;Bolsa  T60;;1;120,00;120;0;4,81;0;115,19;60;55,19
+Castro  ;Boné Anth-Co;;3;55,00;165;0;15;0;150;69;81
+Castro  ;bone chronic;;2;120,00;240;0;30,49;0;209,51;110;99,51
+Castro  ;Boné De Tela;;3;38,00;114;0;9,58;0;104,42;48;56,42
+Castro  ;Bone five panel;;4;44,00;176;0;13,57;0;162,43;80;82,43
+Castro  ;Boné Premium;;8;44,00;352;0;23,49;0;328,51;144;184,51
+Castro  ;Brinco  De Prata 15;;1;15,00;15;0;0;0;15;7;8
+Castro  ;Brinco De Prata 20;;1;20,00;20;0;0;0;20;10;10
+Castro  ;Brinco De Prata 30;;3;30,00;90;0;2,74;0;87,26;39;48,26
+Castro  ;Bucket;;1;44,00;44;0;3,36;0;40,64;20;20,64
+Castro  ;Bucket Premium;;5;77,00;385;0;35,95;0;349,05;175;174,05
+Castro  ;Calça Cargo;;4;120,00;480;0;31,43;0;448,57;220;228,57
+Castro  ;Calça Jeans;;3;88,00;264;0;25,42;0;238,58;120;118,58
+Castro  ;Calça Jogger;;6;106,67;640;0;51,57;0;588,43;228;360,43
+Castro  ;camisa basica;;2;62,50;125;0;2,21;0;122,79;54;68,79
+Castro  ;Camisa Chronic;;27;82,00;2214;0;139,78;0;2074,22;945;1.129,22
+Castro  ;Camisa Dri-fit;;3;44,00;132;0;5,36;0;126,64;51;75,64
+Castro  ;Camisa Peruana;;12;88,00;1056;0;98,33;0;957,67;432;525,67
+Castro  ;Camisa Polo;;19;77,00;1463;0;121,99;0;1341,01;684;657,01
+Castro  ;Camisa Premium;;38;55,00;2090;0;141,87;0;1948,13;760;1.188,13
+Castro  ;Camisa Stret;;45;60,00;2700;0;195,59;0;2504,41;1125;1.379,41
+Castro  ;Camisa Surf;;19;38,00;722;0;42,89;0;679,11;285;394,11
+Castro  ;Carteira Grif;;2;44,00;88;0;10;0;78;36;42
+Castro  ;Carteira Simples;;4;33,00;132;0;11,52;0;120,48;60;60,48
+Castro  ;cinto;;1;22,00;22;0;2,01;0;19,99;10;9,99
+Castro  ;cinto grife;;4;33,00;132;0;11,75;0;120,25;60;60,25
+Castro  ;Corrente  De Prata 3,5 MM;;1;176,00;176;0;13,45;0;162,55;80;82,55
+Castro  ;Corrente De Moeda 100;;2;110,00;220;0;10,52;0;209,48;90;119,48
+Castro  ;Corrente De Prata 2 MM;;1;110,00;110;0;10,06;0;99,94;45;54,94
+Castro  ;Corrente De Prata 6 MM;;1;440,00;440;0;2,41;0;437,59;205;232,59
+Castro  ;Corrente Friso S;;1;200,00;200;0;18,9;0;181,1;90;91,1
+Castro  ;Corrente Moeda 70;;4;77,00;308;0;32,78;0;275,22;140;135,22
+Castro  ;Cueca Chinesa;;25;20,00;500;0;54,55;0;445,45;250;195,45
+Castro  ;Cueca Simples;;16;12,00;192;0;16,64;0;175,36;64;111,36
+Castro  ;Cuecas Algodão;;4;22,00;88;0;13,98;0;74,02;32;42,02
+Castro  ;Dechavador;;4;5,00;20;0;1,08;0;18,92;8;10,92
+Castro  ;Diferença De Troca;;4;50,00;200;0;125,87;0;74,13;0;-
+Castro  ;Elo Baiano;;1;100,00;100;0;7,07;0;92,93;0;-
+Castro  ;Jeans Cordão;;3;70,00;210;0;20;0;190;96;94
+Castro  ;jeans original branca;;4;110,00;440;0;37,04;0;402,96;0;-
+Castro  ;Kenner  Rakka Full Force;;1;150,00;150;0;13,99;0;136,01;65;71,01
+Castro  ;Kenner Diamante;;7;150,00;1050;0;53,24;0;996,76;490;506,76
+Castro  ;kenner kivah;;9;130,00;1170;0;50;0;1120;495;625
+Castro  ;Kenner Kivah;;5;146,00;730;0;40;0;690;325;365
+Castro  ;kenner rakkab branca;;3;170,00;510;0;61,63;0;448,37;195;253,37
+Castro  ;Kit Cueca;;1;77,00;77;0;7;0;70;0;-
+Castro  ;Lente Transparente Mola;;2;120,00;240;0;40;0;200;100;100
+Castro  ;Maçarico;;2;20,00;40;0;1,83;0;38,17;21;17,17
+Castro  ;Oculos De Sol;;1;33,00;33;0;5,03;0;27,97;15;12,97
+Castro  ;Oculos Juliett;;3;132,00;396;0;66;0;330;180;150
+Castro  ;Oculos Vilão;;1;66,00;66;0;6,03;0;59,97;30;29,97
+Castro  ;Papel De Presente;;1;2,00;2;0;0,18;0;1,82;0,5;1,32
+Castro  ;Perfume Base De Oleo;;5;38,00;190;0;21,27;0;168,73;65;103,73
+Castro  ;Perfume Similar;;1;30,00;30;0;2,65;0;27,35;13;14,35
+Castro  ;Pingente De Moeda Antiga  G;;4;77,00;308;0;28,46;0;279,54;140;139,54
+Castro  ;Pingente De Prata;;2;55,00;110;0;4,51;0;105,49;46;59,49
+Castro  ;Piteira Curta;;1;3,00;3;0;0;0;3;1,5;1,5
+Castro  ;Polo Gucci;;5;55,00;275;0;18,11;0;256,89;125;131,89
+Castro  ;Polo Peruana;;6;110,00;660;0;89,71;0;570,29;324;246,29
+Castro  ;Pulseira  De Prata 5 MM;;1;110,00;110;0;9,76;0;100,24;48;52,24
+Castro  ;Pulseira De Moeda 50;;1;77,00;77;0;12,19;0;64,81;32;32,81
+Castro  ;Pulseira De Prata 2MM;;2;66,00;132;0;21,05;0;110,95;56;54,95
+Castro  ;Pulsiera De Prata 6 MM;;1;132,00;132;0;12;0;120;54;66
+Castro  ;Regata;;1;44,00;44;0;4;0;40;20;20
+Castro  ;Regata  Premium;;5;55,00;275;0;32,83;0;242,17;110;132,17
+Castro  ;Regata Americana;;6;55,00;330;0;23,22;0;306,78;138;168,78
+Castro  ;regata premium;;1;55,00;55;0;6,11;0;48,89;22;26,89
+Castro  ;Relogio Atlantis;;2;143,00;286;0;22,59;0;263,41;110;153,41
+Castro  ;Relogio Bvlgari;;2;200,00;400;0;37,4;0;362,6;140;222,6
+Castro  ;Relogio Invicta;;2;230,00;460;0;24,88;0;435,12;200;235,12
+Castro  ;Relógio Pointer;;1;90,00;90;0;0,49;0;89,51;35;54,51
+Castro  ;Relogio Rolex;;2;190,00;380;0;58,43;0;321,57;120;201,57
+Castro  ;Relogio Xufeng;;1;66,00;66;0;5,77;0;60,23;30;30,23
+Castro  ;Relogio Yakuyza;;1;143,00;143;0;13;0;130;35;95
+Castro  ;Sandalia Premium;;3;40,00;120;0;15,67;0;104,33;54;50,33
+Castro  ;Seda Bem Bolado;;1;5,00;5;0;0;0;5;0;-
+Castro  ;Short Cargo Premium;;3;110,00;330;0;29,95;0;300,05;150;150,05
+Castro  ;Short Dri-fit Premium;;13;88,00;1144;0;94,71;0;1049,29;585;464,29
+Castro  ;Short Impermeável;;2;55,00;110;0;9,85;0;100,15;46;54,15
+Castro  ;Short Jeans Premium;;14;82,00;1148;0;57,62;0;1090,38;490;600,38
+Castro  ;Short Linho premium;;3;66,00;198;0;18;0;180;90;90
+Castro  ;short mauricinho;;2;33,00;66;0;6;0;60;30;30
+Castro  ;short sarja;;2;110,00;220;0;15,63;0;204,37;0;-
+Castro  ;spy cara de gato;;2;55,00;110;0;5,95;0;104,05;46;58,05
+Castro  ;Spy Premium;;3;55,00;165;0;9,57;0;155,43;69;86,43
+Castro  ;Tênis;;4;100,00;400;0;37,64;0;362,36;160;202,36
+darly  ;Bermuda Dri-fit;;20;45,00;900;0;79,25;0;820,75;360;460,75
+darly  ;Bermuda Dri-fit Premium;;5;77,00;385;0;38,19;0;346,81;0;-
+darly  ;bermuda dri-fit recortada;;2;55,00;110;0;10,04;0;99,96;40;59,96
+darly  ;Bermuda Drifit Gucci;;8;55,00;440;0;22,63;0;417,37;200;217,37
+darly  ;Bermuda Elastano;;24;65,00;1560;0;121,85;0;1438,15;744;694,15
+darly  ;Bermuda Jeans;;47;65,00;3055;0;218,5;0;2836,5;1269;1.567,50
+darly  ;Bermuda Jeans EXGG;;3;88,00;264;0;8,59;0;255,41;114;141,41
+darly  ;Bermuda Moletom;;1;60,00;60;0;0,78;0;59,22;0;-
+darly  ;bermuda premium;;2;77,00;154;0;13,28;0;140,72;70;70,72
+darly  ;Bermuda Via Moda;;15;110,00;1650;0;185,32;0;1464,68;675;789,68
+darly  ;Boné Anth-Co;;7;55,00;385;0;22,1;0;362,9;161;201,9
+darly  ;bone chronic;;1;120,00;120;0;4,98;0;115,02;55;60,02
+darly  ;Boné De Tela;;2;38,00;76;0;0;0;76;32;44
+darly  ;Bone five panel;;4;44,00;176;0;11,65;0;164,35;80;84,35
+darly  ;Boné Premium;;7;44,00;308;0;15,49;0;292,51;126;166,51
+darly  ;Brinco  De Prata 15;;5;15,00;75;0;13,08;0;61,92;35;26,92
+darly  ;Brinco De Prata 20;;3;20,00;60;0;2,19;0;57,81;30;27,81
+darly  ;Brinco De Prata 30;;1;30,00;30;0;5;0;25;13;12
+darly  ;Brinco Prata 25;;1;25,00;25;0;1,97;0;23,03;12;11,03
+darly  ;Bucket Premium;;4;77,00;308;0;21,3;0;286,7;140;146,7
+darly  ;Calça Cargo;;5;120,00;600;0;50,97;0;549,03;275;274,03
+darly  ;Calça Jeans;;3;88,00;264;0;2,91;0;261,09;120;141,09
+darly  ;Calça Jogger;;3;100,00;300;0;47,31;0;252,69;135;117,69
+darly  ;camisa basica;;2;65,00;130;0;18,99;0;111,01;54;57,01
+darly  ;Camisa Chronic;;26;82,00;2132;0;127,44;0;2004,56;925,6;1.078,96
+darly  ;Camisa EXGG;;1;77,00;77;0;1;0;76;32;44
+darly  ;Camisa Peruana;;12;88,00;1056;0;92,94;0;963,06;432;531,06
+darly  ;Camisa Polo;;15;77,00;1155;0;106,98;0;1048,02;510;538,02
+darly  ;Camisa Premium;;46;55,00;2530;0;207,56;0;2322,44;1150;1.172,44
+darly  ;Camisa Stret;;68;60,00;4080;0;292,55;0;3787,45;1700;2.087,45
+darly  ;Camisa Surf;;30;38,00;1140;0;90,84;0;1049,16;480;569,16
+darly  ;Carteira Grif;;3;44,00;132;0;16,06;0;115,94;54;61,94
+darly  ;cinto;;2;22,00;44;0;2;0;42;20;22
+darly  ;cinto grife;;6;33,00;198;0;25,44;0;172,56;90;82,56
+darly  ;Copo Stanley;;1;44,00;44;0;4;0;40;20;20
+darly  ;Corrente  De Prata 3,5 MM;;1;176,00;176;0;0;0;176;80;96
+darly  ;Corrente De Moeda 100;;1;110,00;110;0;4,23;0;105,77;45;60,77
+darly  ;Corrente De Prata 1,5 MM;;1;77,00;77;0;6,75;0;70,25;30;40,25
+darly  ;Corrente De Prata 2 MM;;3;110,00;330;0;23,04;0;306,96;135;171,96
+darly  ;Corrente Moeda 70;;2;77,00;154;0;10,3;0;143,7;70;73,7
+darly  ;Cueca Chinesa;;9;20,00;180;0;15,22;0;164,78;90;74,78
+darly  ;Cueca Simples;;34;12,00;408;0;40,14;0;367,86;136;231,86
+darly  ;Cuecas Algodão;;4;22,00;88;0;15,69;0;72,31;32;40,31
+darly  ;Cuia;;1;20,00;20;0;0;0;20;8;12
+darly  ;Dechavador;;3;5,00;15;0;0,59;0;14,41;6;8,41
+darly  ;Diferença De Troca;;2;50,00;100;0;32,14;0;67,86;0;-
+darly  ;enchimento;;1;2,00;2;0;0;0;2;0;-
+darly  ;jeans original branca;;1;110,00;110;0;12,94;0;97,06;50;47,06
+darly  ;Kenner Diamante;;1;150,00;150;0;20;0;130;70;60
+darly  ;kenner kivah;;21;130,00;2730;0;167,24;0;2562,76;1155;1.407,76
+darly  ;Kenner Kivah;;7;150,00;1050;0;45,79;0;1004,21;455;549,21
+darly  ;Kenner rakka full force;;2;150,00;300;0;5,77;0;294,23;0;-
+darly  ;kenner rakkab branca;;5;170,00;850;0;11,37;0;838,63;325;513,63
+darly  ;Kit Cueca;;2;77,00;154;0;20,36;0;133,64;0;-
+darly  ;Oculos De Sol;;2;33,00;66;0;7,39;0;58,61;30;28,61
+darly  ;Oculos Juliett;;4;132,00;528;0;37,24;0;490,76;240;250,76
+darly  ;Oculos Oakley;;2;50,00;100;0;9,55;0;90,45;34;56,45
+darly  ;Perfume Base De Oleo;;3;38,00;114;0;16;0;98;36;62
+darly  ;Perfume Similar;;2;30,00;60;0;4,2;0;55,8;26;29,8
+darly  ;Pingente De Moeda Antiga  G;;2;77,00;154;0;0;0;154;70;84
+darly  ;Pingente Moeda Antiga  P;;2;55,00;110;0;7,35;0;102,65;50;52,65
+darly  ;Piteira Curta;;1;3,00;3;0;0;0;3;1,79;1,21
+darly  ;Piteira larga;;1;5,00;5;0;0,61;0;4,39;2,5;1,89
+darly  ;Polo Chronic;;4;110,00;440;0;70,22;0;369,78;182;187,78
+darly  ;Polo Gucci;;8;55,00;440;0;28,51;0;411,49;200;211,49
+darly  ;Polo Peruana;;7;110,00;770;0;96,35;0;673,65;378;295,65
+darly  ;Pulseira De Prata 2MM;;1;66,00;66;0;0;0;66;28;38
+darly  ;Regata;;6;44,00;264;0;25;0;239;120;119
+darly  ;Regata  Premium;;2;55,00;110;0;10;0;100;44;56
+darly  ;Regata Americana;;12;55,00;660;0;59,96;0;600,04;276;324,04
+darly  ;regata basquete;;1;50,00;50;0;5;0;45;22;23
+darly  ;Regata Dri-fit;;2;44,00;88;0;7,76;0;80,24;40;40,24
+darly  ;Relogio Bvlgari;;1;200,00;200;0;41,34;0;158,66;70;88,66
+darly  ;Relogio G-Shock;;1;88,00;88;0;7,82;0;80,18;35;45,18
+darly  ;Relogio Xufeng;;1;66,00;66;0;11,22;0;54,78;30;24,78
+darly  ;Relogio Yakuyza;;2;143,00;286;0;36;0;250;70;180
+darly  ;Sandalia Premium;;2;40,00;80;0;1,71;0;78,29;36;42,29
+darly  ;Seda Blunt;;10;10,00;100;0;4,69;0;95,31;100;-4,69
+darly  ;Short Cargo;;2;77,00;154;0;7;0;147;0;-
+darly  ;Short Dri-fit Premium;;15;88,00;1320;0;101,02;0;1218,98;675;543,98
+darly  ;Short Impermeável;;1;55,00;55;0;5;0;50;23;27
+darly  ;Short Jeans Premium;;23;82,00;1886;0;105,23;0;1780,77;805;975,77
+darly  ;Short Linho premium;;2;66,00;132;0;11,74;0;120,26;50;70,26
+darly  ;Spy Premium;;5;55,00;275;0;39;0;236;115;121
+darly  ;Tênis;;3;100,00;300;0;19,34;0;280,66;120;160,66
+ially  ;Bag Premium;;2;50,00;100;0;4,17;0;95,83;40;55,83
+ially  ;Bermuda Brim;;1;66,00;66;0;6;0;60;0;-
+ially  ;bermuda cargo;;3;110,00;330;0;29,14;0;300,86;0;-
+ially  ;Bermuda Dri-fit;;17;45,29;770;0;51,09;0;718,91;306;412,91
+ially  ;Bermuda Dri-fit Premium;;4;77,00;308;0;22,96;0;285,04;0;-
+ially  ;bermuda dri-fit recortada;;9;55,00;495;0;20,19;0;474,81;180;294,81
+ially  ;Bermuda Drifit EXGG;;6;50,00;300;0;23,53;0;276,47;120;156,47
+ially  ;Bermuda Drifit Gucci;;9;55,00;495;0;34,01;0;460,99;225;235,99
+ially  ;Bermuda Elastano;;16;65,00;1040;0;62,49;0;977,51;464;513,51
+ially  ;Bermuda Jeans;;54;65,00;3510;0;221,23;0;3288,77;1458;1.830,77
+ially  ;Bermuda Jeans EXGG;;9;88,00;792;0;58,61;0;733,39;342;391,39
+ially  ;bermuda sarja;;1;65,00;65;0;0,79;0;64,21;0;-
+ially  ;Bermuda Via Moda;;14;106,43;1490;0;201,8;0;1288,2;630;658,2
+ially  ;Boné Anth-Co;;10;55,00;550;0;45,47;0;504,53;230;274,53
+ially  ;Bone five panel;;1;44,00;44;0;4;0;40;20;20
+ially  ;Boné Premium;;11;44,00;484;0;32,13;0;451,87;220;231,87
+ially  ;Brinco  De Prata 15;;4;15,00;60;0;0;0;60;28;32
+ially  ;Brinco De Prata 20;;2;20,00;40;0;0;0;40;20;20
+ially  ;Brinco De Prata 30;;1;30,00;30;0;0;0;30;13;17
+ially  ;Brinco Prata 25;;5;25,00;125;0;3,35;0;121,65;60;61,65
+ially  ;Bucket Premium;;3;77,00;231;0;14;0;217;105;112
+ially  ;Calça Cargo;;8;120,00;960;0;83,88;0;876,12;440;436,12
+ially  ;Calça Jeans;;1;88,00;88;0;8;0;80;40;40
+ially  ;Calça Jogger;;5;100,00;500;0;19,68;0;480,32;225;255,32
+ially  ;Camisa Chronic;;46;82,00;3772;0;295,82;0;3476,18;1610;1.866,18
+ially  ;Camisa Dri-fit;;4;44,00;176;0;8,18;0;167,82;68;99,82
+ially  ;Camisa EXGG;;10;77,00;770;0;49,35;0;720,65;320;400,65
+ially  ;Camisa Peruana;;22;88,00;1936;0;71,34;0;1864,66;792;1.072,66
+ially  ;Camisa Polo;;27;77,00;2079;0;144,75;0;1934,25;891;1.043,25
+ially  ;Camisa Premium;;42;55,00;2310;0;150,12;0;2159,88;840;1.319,88
+ially  ;Camisa Stret;;92;60,00;5520;0;396,03;0;5123,97;2300;2.823,97
+ially  ;Camisa Surf;;22;38,00;836;0;61,63;0;774,37;352;422,37
+ially  ;Carteira Grif;;2;44,00;88;0;4,66;0;83,34;36;47,34
+ially  ;Carteira Simples;;2;33,00;66;0;6;0;60;30;30
+ially  ;cinto;;2;22,00;44;0;4,08;0;39,92;20;19,92
+ially  ;cinto grife;;3;33,00;99;0;4,04;0;94,96;45;49,96
+ially  ;Copo Stanley;;3;44,00;132;0;11,63;0;120,37;60;60,37
+ially  ;Corrente  De Prata 3,5 MM;;1;176,00;176;0;0;0;176;80;96
+ially  ;Corrente De Moeda 100;;2;110,00;220;0;41,67;0;178,33;90;88,33
+ially  ;Corrente De Prata 4 MM;;1;240,00;240;0;20,34;0;219,66;110;109,66
+ially  ;Corrente Moeda 70;;5;77,00;385;0;37,51;0;347,49;175;172,49
+ially  ;Cueca Chinesa;;23;20,00;460;0;51,37;0;408,63;230;178,63
+ially  ;Cueca Simples;;12;12,00;144;0;12,48;0;131,52;48;83,52
+ially  ;Cuecas Algodão;;12;21,50;258;0;38,47;0;219,53;96;123,53
+ially  ;Dechavador;;3;5,00;15;0;0,43;0;14,57;6;8,57
+ially  ;Diferença De Troca;;3;50,00;150;0;77,47;0;72,53;0;-
+ially  ;Dri-fit Recortada;;4;55,00;220;0;20,36;0;199,64;80;119,64
+ially  ;Escapulario Prata;;1;110,00;110;0;10;0;100;50;50
+ially  ;Jeans Cordão;;4;70,00;280;0;16,4;0;263,6;128;135,6
+ially  ;Kenner Diamante;;14;150,00;2100;0;140,08;0;1959,92;980;979,92
+ially  ;kenner kivah;;17;130,00;2210;0;113,28;0;2096,72;935;1.161,72
+ially  ;Kenner Kivah;;8;150,00;1200;0;33,99;0;1166,01;520;646,01
+ially  ;kenner rakkab branca;;3;170,00;510;0;34,16;0;475,84;195;280,84
+ially  ;Kit Cueca;;3;77,00;231;0;12,74;0;218,26;0;-
+ially  ;Lente Transparente;;2;100,00;200;0;19,61;0;180,39;90;90,39
+ially  ;meia;;1;12,00;12;0;1,07;0;10,93;0;-
+ially  ;Melzinho;;2;20,00;40;0;2,98;0;37,02;18;19,02
+ially  ;Necessaire;;1;77,00;77;0;7,29;0;69,71;35;34,71
+ially  ;Oculos De Grife;;1;44,00;44;0;3,65;0;40,35;20;20,35
+ially  ;Oculos De Sol;;7;33,00;231;0;10,25;0;220,75;105;115,75
+ially  ;Oculos Juliett;;3;132,00;396;0;44;0;352;180;172
+ially  ;Papel De Presente;;7;2,00;14;0;0,91;0;13,09;3,5;9,59
+ially  ;Perfume Base De Oleo;;4;38,00;152;0;10,85;0;141,15;48;93,15
+ially  ;Pingente De Moeda Antiga  G;;1;77,00;77;0;7;0;70;35;35
+ially  ;Pingente Moeda Antiga  P;;4;55,00;220;0;29,84;0;190,16;100;90,16
+ially  ;Pingente Pedraria;;2;90,00;180;0;20;0;160;80;80
+ially  ;Piteira Curta;;2;3,00;6;0;0;0;6;3;3
+ially  ;Polo Chronic;;3;110,00;330;0;54,21;0;275,79;136,5;139,29
+ially  ;Polo Gucci;;10;55,00;550;0;42,35;0;507,65;230;277,65
+ially  ;Polo Peruana;;1;110,00;110;0;11,28;0;98,72;54;44,72
+ially  ;Pulseira De Moeda 50;;1;77,00;77;0;6,86;0;70,14;32;38,14
+ially  ;Pulseira De Prata 2MM;;2;66,00;132;0;12;0;120;56;64
+ially  ;Pulseira Moeda 70;;2;55,00;110;0;10,64;0;99,36;50;49,36
+ially  ;Pulsiera De Prata 6 MM;;1;132,00;132;0;12;0;120;54;66
+ially  ;Regata;;3;44,00;132;0;7,28;0;124,72;60;64,72
+ially  ;Regata  Premium;;8;55,00;440;0;29,84;0;410,16;176;234,16
+ially  ;Regata Americana;;6;55,00;330;0;25;0;305;138;167
+ially  ;Regata Dri-fit;;2;44,00;88;0;6,93;0;81,07;40;41,07
+ially  ;Relogio Atlantis;;1;143,00;143;0;0;0;143;55;88
+ially  ;relogio atlantis femenino;;1;132,00;132;0;12;0;120;0;-
+ially  ;Relogio Bvlgari;;1;200,00;200;0;21,12;0;178,88;70;108,88
+ially  ;Relogio Rolex;;3;190,00;570;0;71,74;0;498,26;180;318,26
+ially  ;Sandalia Premium;;6;40,00;240;0;7,06;0;232,94;108;124,94
+ially  ;Short Cargo;;5;77,00;385;0;20,31;0;364,69;0;-
+ially  ;Short Cargo Premium;;1;110,00;110;0;10;0;100;50;50
+ially  ;Short Dri-fit Premium;;16;88,00;1408;0;121,32;0;1286,68;720;566,68
+ially  ;Short Jeans Premium;;26;82,00;2132;0;122,1;0;2009,9;910;1.099,90
+ially  ;Short Linho premium;;1;66,00;66;0;1;0;65;25;40
+ially  ;Spy Premium;;1;55,00;55;0;6,75;0;48,25;23;25,25
+ially  ;Spy Simples;;1;44,00;44;0;3,54;0;40,46;15;25,46
+ially  ;Tênis;;2;100,00;200;0;20,32;0;179,68;80;99,68
+ially  ;Tênis Air Force;;2;93,00;186;0;16;0;170;74;96
+rafaela araujo  ;Anel Moeda Antiga;;3;58,67;176;0;21;0;155;105;50
+rafaela araujo  ;anel prata;;2;132,00;264;0;22,6;0;241,4;120;121,4
+rafaela araujo  ;Atlantis Feminino;;1;130,00;130;0;0;0;130;50;80
+rafaela araujo  ;bag chronic;;1;98,00;98;0;16,33;0;81,67;65;16,67
+rafaela araujo  ;Bag Premium;;11;49,73;547;0;49,53;0;497,47;253;244,47
+rafaela araujo  ;Bermuda Brim;;3;67,67;203;0;21,21;0;181,79;0;-
+rafaela araujo  ;bermuda cargo;;7;110,00;770;0;73,59;0;696,41;0;-
+rafaela araujo  ;Bermuda Dri-fit;;24;45,00;1080;0;47,18;0;1032,82;432;600,82
+rafaela araujo  ;Bermuda Dri-fit Premium;;11;77,00;847;0;51,82;0;795,18;0;-
+rafaela araujo  ;bermuda dri-fit recortada;;9;55,00;495;0;30,54;0;464,46;225;239,46
+rafaela araujo  ;Bermuda Drifit EXGG;;1;50,00;50;0;2,83;0;47,17;20;27,17
+rafaela araujo  ;Bermuda Drifit Gucci;;10;55,00;550;0;33,57;0;516,43;250;266,43
+rafaela araujo  ;Bermuda Elastano;;41;65,00;2665;0;253,23;0;2411,77;1189;1.222,77
+rafaela araujo  ;Bermuda Jeans;;65;65,00;4225;0;296,13;0;3928,87;1820;2.108,87
+rafaela araujo  ;Bermuda Jeans EXGG;;4;88,00;352;0;28,76;0;323,24;152;171,24
+rafaela araujo  ;Bermuda Moletom;;3;60,00;180;0;26,67;0;153,33;0;-
+rafaela araujo  ;bermuda premium;;1;77,00;77;0;6,87;0;70,13;35;35,13
+rafaela araujo  ;Bermuda Via Moda;;20;104,90;2098;0;201,71;0;1896,29;900;996,29
+rafaela araujo  ;Blusão Moletom;;1;150,00;150;0;10;0;140;65;75
+rafaela araujo  ;Bolador;;1;28,00;28;0;0;0;28;15,25;12,75
+rafaela araujo  ;Boné Anth-Co;;22;55,00;1210;0;95,13;0;1114,87;528;586,87
+rafaela araujo  ;bone chronic;;2;120,00;240;0;63,34;0;176,66;110;66,66
+rafaela araujo  ;Bone de Grife;;1;55,00;55;0;5;0;50;0;-
+rafaela araujo  ;Boné De Tela;;1;38,00;38;0;3;0;35;16;19
+rafaela araujo  ;Bone five panel;;5;44,00;220;0;19,28;0;200,72;100;100,72
+rafaela araujo  ;Boné Premium;;10;44,00;440;0;35,08;0;404,92;180;224,92
+rafaela araujo  ;Brinco  De Prata 15;;1;15,00;15;0;0;0;15;7;8
+rafaela araujo  ;Brinco De Prata 20;;6;20,00;120;0;7,37;0;112,63;60;52,63
+rafaela araujo  ;Brinco De Prata 30;;7;31,29;219;0;15,3;0;203,7;91;112,7
+rafaela araujo  ;Brinco Prata 25;;8;25,00;200;0;4,32;0;195,68;96;99,68
+rafaela araujo  ;Bucket;;1;44,00;44;0;4;0;40;20;20
+rafaela araujo  ;Bucket Premium;;5;77,00;385;0;32,74;0;352,26;175;177,26
+rafaela araujo  ;Bvlgari Roleta;;1;220,00;220;0;0;0;220;100;120
+rafaela araujo  ;Calça Cargo;;14;120,00;1680;0;117,48;0;1562,52;770;792,52
+rafaela araujo  ;Calça Jeans;;7;88,00;616;0;27,4;0;588,6;280;308,6
+rafaela araujo  ;Calça Jogger;;5;99,20;496;0;39,57;0;456,43;225;231,43
+rafaela araujo  ;camisa basica;;3;63,33;190;0;26,83;0;163,17;0;-
+rafaela araujo  ;Camisa Chronic;;64;82,00;5248;0;446,39;0;4801,61;2368;2.433,61
+rafaela araujo  ;Camisa De Time;;5;44,00;220;0;16;0;204;0;-
+rafaela araujo  ;Camisa Dri-fit;;3;42,67;128;0;8,15;0;119,85;51;68,85
+rafaela araujo  ;Camisa EXGG;;4;77,00;308;0;27,44;0;280,56;128;152,56
+rafaela araujo  ;Camisa Peruana;;23;88,00;2024;0;177,98;0;1846,02;851;995,02
+rafaela araujo  ;Camisa Polo;;38;77,00;2926;0;271,34;0;2654,66;1330;1.324,66
+rafaela araujo  ;Camisa Premium;;139;55,00;7645;0;682,64;0;6962,36;3475;3.487,36
+rafaela araujo  ;Camisa Stret;;101;60,00;6060;0;449,23;0;5610,77;2525;3.085,77
+rafaela araujo  ;Camisa Surf;;21;38,00;798;0;53,86;0;744,14;336;408,14
+rafaela araujo  ;Camisa Uv;;1;55,00;55;0;6,56;0;48,44;27;21,44
+rafaela araujo  ;Carteira Grif;;4;44,00;176;0;10,21;0;165,79;68;97,79
+rafaela araujo  ;Carteira Simples;;6;33,00;198;0;19,31;0;178,69;90;88,69
+rafaela araujo  ;cinto;;3;22,00;66;0;6,8;0;59,2;30;29,2
+rafaela araujo  ;cinto grife;;8;33,00;264;0;13,47;0;250,53;120;130,53
+rafaela araujo  ;Copo Stanley;;1;44,00;44;0;5,84;0;38,16;20;18,16
+rafaela araujo  ;Corrente  De Prata 3,5 MM;;4;176,00;704;0;63;0;641;320;321
+rafaela araujo  ;corrente 80;;2;220,00;440;0;20;0;420;0;-
+rafaela araujo  ;Corrente De Moeda 100;;5;110,00;550;0;51,31;0;498,69;225;273,69
+rafaela araujo  ;Corrente De Prata 1,5 MM;;2;77,00;154;0;14;0;140;60;80
+rafaela araujo  ;Corrente De Prata 2 MM;;8;110,00;880;0;55,65;0;824,35;368;456,35
+rafaela araujo  ;Corrente De Prata 4 MM;;4;230,00;920;0;58,13;0;861,87;440;421,87
+rafaela araujo  ;Corrente De Prata 5 MM;;1;360,00;360;0;30,36;0;329,64;165;164,64
+rafaela araujo  ;corrente fina moeda;;2;77,00;154;0;7;0;147;0;-
+rafaela araujo  ;Corrente Friso S;;6;200,00;1200;0;84,7;0;1115,3;540;575,3
+rafaela araujo  ;Corrente Moeda 70;;7;77,00;539;0;68,2;0;470,8;245;225,8
+rafaela araujo  ;Corta Vento;;2;130,00;260;0;20,4;0;239,6;116;123,6
+rafaela araujo  ;Cueca Chinesa;;6;20,00;120;0;12,73;0;107,27;60;47,27
+rafaela araujo  ;Cueca Simples;;72;12,00;864;0;92,1;0;771,9;288;483,9
+rafaela araujo  ;Cuecas Algodão;;23;20,43;470;0;53,09;0;416,91;184;232,91
+rafaela araujo  ;Cuia;;5;20,00;100;0;9,09;0;90,91;50;40,91
+rafaela araujo  ;Dechavador;;4;5,00;20;0;0,6;0;19,4;8;11,4
+rafaela araujo  ;Diferença De Troca;;11;50,00;550;0;244,68;0;305,32;0;-
+rafaela araujo  ;Dri-fit Recortada;;5;55,00;275;0;22,9;0;252,1;0;-
+rafaela araujo  ;Elo Baiano;;3;100,00;300;0;25,53;0;274,47;0;-
+rafaela araujo  ;enchimento;;2;2,00;4;0;0;0;4;0;-
+rafaela araujo  ;Gas Completar;;1;2,00;2;0;0;0;2;0;-
+rafaela araujo  ;Jeans Cordão;;3;70,00;210;0;0,73;0;209,27;0;-
+rafaela araujo  ;jeans original branca;;1;110,00;110;0;10;0;100;50;50
+rafaela araujo  ;Kenner  Rakka Full Force;;6;150,00;900;0;37,64;0;862,36;420;442,36
+rafaela araujo  ;Kenner Diamante;;9;150,00;1350;0;51,83;0;1298,17;630;668,17
+rafaela araujo  ;kenner kivah;;34;128,53;4370;0;342,86;0;4027,14;1870;2.157,14
+rafaela araujo  ;Kenner Kivah;;5;150,00;750;0;30;0;720;325;395
+rafaela araujo  ;kenner rakkab branca;;8;170,00;1360;0;10;0;1350;0;-
+rafaela araujo  ;Kit Cueca;;2;77,00;154;0;14;0;140;0;-
+rafaela araujo  ;Lego;;2;20,00;40;0;5,94;0;34,06;20;14,06
+rafaela araujo  ;Lente Transparente;;3;100,00;300;0;30,26;0;269,74;135;134,74
+rafaela araujo  ;Lente Transparente Mola;;1;120,00;120;0;15,51;0;104,49;50;54,49
+rafaela araujo  ;Maçarico;;2;20,00;40;0;1,15;0;38,85;21;17,85
+rafaela araujo  ;meia;;2;12,00;24;0;1,86;0;22,14;0;-
+rafaela araujo  ;mel do amor;;4;25,00;100;0;20;0;80;0;-
+rafaela araujo  ;Melzinho;;2;20,00;40;0;0;0;40;18;22
+rafaela araujo  ;Mochila Nike;;1;110,00;110;0;8,37;0;101,63;50;51,63
+rafaela araujo  ;Necessaire;;1;77,00;77;0;7;0;70;35;35
+rafaela araujo  ;Oculos De Sol;;1;33,00;33;0;3;0;30;15;15
+rafaela araujo  ;Oculos Juliett;;5;132,00;660;0;59,78;0;600,22;300;300,22
+rafaela araujo  ;Oculos Oakley;;9;50,00;450;0;58,55;0;391,45;153;238,45
+rafaela araujo  ;Oculos Vilão;;2;66,00;132;0;11;0;121;60;61
+rafaela araujo  ;Papel De Presente;;7;2,00;14;0;0,68;0;13,32;3,5;9,82
+rafaela araujo  ;Perfume Base De Oleo;;13;38,00;494;0;43,39;0;450,61;169;281,61
+rafaela araujo  ;Perfume Similar;;6;28,67;172;0;10,54;0;161,46;72;89,46
+rafaela araujo  ;Pingente De Moeda Antiga  G;;7;77,00;539;0;33,93;0;505,07;245;260,07
+rafaela araujo  ;Pingente De Prata;;6;55,00;330;0;30,92;0;299,08;138;161,08
+rafaela araujo  ;Pingente moeda 60;;1;60,00;60;0;3,75;0;56,25;30;26,25
+rafaela araujo  ;Pingente Moeda Antiga  P;;1;55,00;55;0;5,27;0;49,73;25;24,73
+rafaela araujo  ;Pingente Pedraria;;4;90,00;360;0;40,9;0;319,1;0;-
+rafaela araujo  ;Piteira Curta;;5;3,00;15;0;1,28;0;13,72;7,5;6,22
+rafaela araujo  ;Piteira larga;;1;5,00;5;0;0,29;0;4,71;2,5;2,21
+rafaela araujo  ;Pochete;;2;55,00;110;0;9,1;0;100,9;46;54,9
+rafaela araujo  ;Polo Chronic;;6;110,00;660;0;60,53;0;599,47;270;329,47
+rafaela araujo  ;Polo Gucci;;17;55,00;935;0;59;0;876;391;485
+rafaela araujo  ;Polo Peruana;;8;110,00;880;0;56,75;0;823,25;440;383,25
+rafaela araujo  ;Pulseira  De Prata 5 MM;;2;110,00;220;0;19,74;0;200,26;96;104,26
+rafaela araujo  ;Pulseira De Moeda 50;;1;77,00;77;0;10,55;0;66,45;32;34,45
+rafaela araujo  ;Pulseira De Prata 2MM;;7;66,00;462;0;31,02;0;430,98;196;234,98
+rafaela araujo  ;Pulseira Moeda 70;;4;55,00;220;0;19,04;0;200,96;100;100,96
+rafaela araujo  ;reagata premium;;1;55,00;55;0;4,42;0;50,58;0;-
+rafaela araujo  ;Regata;;13;44,00;572;0;54,58;0;517,42;0;-
+rafaela araujo  ;Regata  Premium;;5;55,00;275;0;39,3;0;235,7;110;125,7
+rafaela araujo  ;Regata Americana;;33;55,00;1815;0;207,87;0;1607,13;792;815,13
+rafaela araujo  ;regata basquete;;1;50,00;50;0;4,76;0;45,24;22;23,24
+rafaela araujo  ;Regata Dri-fit;;1;44,00;44;0;3,35;0;40,65;20;20,65
+rafaela araujo  ;regata premium;;2;55,00;110;0;0;0;110;0;-
+rafaela araujo  ;Relogio Atlantis;;6;143,00;858;0;39;0;819;330;489
+rafaela araujo  ;relogio atlantis femenino;;2;132,00;264;0;16,1;0;247,9;0;-
+rafaela araujo  ;Relogio Bvlgari;;2;200,00;400;0;42,89;0;357,11;140;217,11
+rafaela araujo  ;Relogio G-Shock;;3;88,00;264;0;24;0;240;120;120
+rafaela araujo  ;Relogio Invicta;;2;230,00;460;0;60;0;400;200;200
+rafaela araujo  ;Relógio Pointer;;4;90,00;360;0;0;0;360;0;-
+rafaela araujo  ;Relogio Rolex;;2;190,00;380;0;5,9;0;374,1;120;254,1
+rafaela araujo  ;Relogio Xufeng;;5;66,00;330;0;18;0;312;150;162
+rafaela araujo  ;Relogio Yakuyza;;2;143,00;286;0;21,45;0;264,55;70;194,55
+rafaela araujo  ;Sandalia Premium;;3;40,00;120;0;8,46;0;111,54;54;57,54
+rafaela araujo  ;Seda Bem Bolado;;5;5,00;25;0;1,56;0;23,44;0;-
+rafaela araujo  ;Seda Blunt;;6;10,00;60;0;1,6;0;58,4;60;-1,6
+rafaela araujo  ;Seda Zomo;;2;3,00;6;0;0;0;6;3;3
+rafaela araujo  ;Short Cargo;;2;77,00;154;0;13,82;0;140,18;0;-
+rafaela araujo  ;Short Cargo Premium;;2;110,00;220;0;21,19;0;198,81;100;98,81
+rafaela araujo  ;Short Dri-fit Premium;;35;88,00;3080;0;216,78;0;2863,22;0;-
+rafaela araujo  ;Short Impermeável;;4;55,00;220;0;22,2;0;197,8;92;105,8
+rafaela araujo  ;Short Jeans Premium;;40;82,00;3280;0;211,54;0;3068,46;1400;1.668,46
+rafaela araujo  ;Short Linho premium;;4;66,00;264;0;24,45;0;239,55;120;119,55
+rafaela araujo  ;spy cara de gato;;1;55,00;55;0;5;0;50;23;27
+rafaela araujo  ;Spy Premium;;3;55,00;165;0;15,24;0;149,76;69;80,76
+rafaela araujo  ;Spy Simples;;2;44,00;88;0;5,14;0;82,86;30;52,86
+rafaela araujo  ;Tênis;;1;100,00;100;0;4,46;0;95,54;40;55,54
+rafaela araujo  ;Tênis Air Force;;2;93,00;186;0;16,68;0;169,32;74;95,32
+Vinicius  ;Anel Moeda Antiga;;4;55,00;220;0;16,86;0;203,14;140;63,14
+Vinicius  ;anel prata;;1;132,00;132;0;12;0;120;60;60
+Vinicius  ;bag chronic;;1;98,00;98;0;8;0;90;65;25
+Vinicius  ;Bag Premium;;6;49,33;296;0;22,53;0;273,47;138;135,47
+Vinicius  ;Bermuda Brim;;7;65,57;459;0;45,27;0;413,73;0;-
+Vinicius  ;Bermuda Dri-fit;;19;45,00;855;0;63,04;0;791,96;342;449,96
+Vinicius  ;Bermuda Dri-fit Premium;;11;77,00;847;0;48,94;0;798,06;0;-
+Vinicius  ;bermuda dri-fit recortada;;5;55,00;275;0;27,85;0;247,15;100;147,15
+Vinicius  ;Bermuda Drifit EXGG;;5;54,00;270;0;14,92;0;255,08;100;155,08
+Vinicius  ;Bermuda Drifit Gucci;;12;55,00;660;0;51,57;0;608,43;300;308,43
+Vinicius  ;Bermuda Elastano;;46;65,00;2990;0;177,86;0;2812,14;1334;1.478,14
+Vinicius  ;Bermuda Jeans;;60;65,00;3900;0;212,78;0;3687,22;1680;2.007,22
+Vinicius  ;Bermuda Jeans EXGG;;4;88,00;352;0;45,46;0;306,54;152;154,54
+Vinicius  ;Bermuda Moletom;;2;60,00;120;0;17,14;0;102,86;0;-
+Vinicius  ;bermuda premium;;4;77,00;308;0;15,57;0;292,43;132;160,43
+Vinicius  ;Bermuda Via Moda;;21;108,57;2280;0;271,58;0;2008,42;945;1.063,42
+Vinicius  ;Blusão Moletom;;1;150,00;150;0;0;0;150;65;85
+Vinicius  ;Bolador;;1;28,00;28;0;2,03;0;25,97;15,25;10,72
+Vinicius  ;Boné Anth-Co;;17;55,00;935;0;56,72;0;878,28;391;487,28
+Vinicius  ;Boné Chronic;;1;110,00;110;0;35;0;75;55;20
+Vinicius  ;Bone de Grife;;1;55,00;55;0;5;0;50;0;-
+Vinicius  ;Boné De Tela;;2;38,00;76;0;3,32;0;72,68;32;40,68
+Vinicius  ;Bone five panel;;4;44,00;176;0;18,83;0;157,17;80;77,17
+Vinicius  ;Boné Premium;;17;44,00;748;0;69,94;0;678,06;306;372,06
+Vinicius  ;Brinco  De Prata 15;;9;15,00;135;0;2,74;0;132,26;63;69,26
+Vinicius  ;Brinco De Prata 20;;7;20,00;140;0;2,51;0;137,49;70;67,49
+Vinicius  ;Brinco De Prata 30;;2;30,00;60;0;2,24;0;57,76;26;31,76
+Vinicius  ;Brinco Prata 25;;5;25,00;125;0;7,93;0;117,07;60;57,07
+Vinicius  ;Bucket;;1;44,00;44;0;4;0;40;20;20
+Vinicius  ;Bucket Premium;;15;77,00;1155;0;133,57;0;1021,43;525;496,43
+Vinicius  ;Bvlgari Couro;;1;130,00;130;0;0;0;130;55;75
+Vinicius  ;Bvlgari Roleta;;2;220,00;440;0;35,71;0;404,29;200;204,29
+Vinicius  ;Calça Cargo;;15;120,00;1800;0;106,85;0;1693,15;825;868,15
+Vinicius  ;Calça Jeans;;6;88,00;528;0;51,17;0;476,83;240;236,83
+Vinicius  ;Calça Jogger;;6;103,00;618;0;85,47;0;532,53;270;262,53
+Vinicius  ;camisa basica;;4;61,25;245;0;26,93;0;218,07;0;-
+Vinicius  ;Camisa Chronic;;62;82,00;5084;0;349,82;0;4734,18;2294;2.440,18
+Vinicius  ;Camisa De Time;;2;44,00;88;0;6,52;0;81,48;0;-
+Vinicius  ;Camisa Dri-fit;;1;44,00;44;0;1,69;0;42,31;17;25,31
+Vinicius  ;Camisa EXGG;;9;77,00;693;0;50,99;0;642,01;288;354,01
+Vinicius  ;Camisa Peruana;;36;88,00;3168;0;193,99;0;2974,01;1332;1.642,01
+Vinicius  ;Camisa Polo;;39;77,00;3003;0;196,57;0;2806,43;1365;1.441,43
+Vinicius  ;Camisa Premium;;116;55,00;6380;0;477,73;0;5902,27;2900;3.002,27
+Vinicius  ;Camisa Stret;;107;60,00;6420;0;428,1;0;5991,9;2675;3.316,90
+Vinicius  ;Camisa Surf;;26;38,00;988;0;88,27;0;899,73;416;483,73
+Vinicius  ;Carteira Grif;;3;44,00;132;0;0,62;0;131,38;51;80,38
+Vinicius  ;Carteira Simples;;4;33,00;132;0;5,94;0;126,06;60;66,06
+Vinicius  ;cinto;;5;22,00;110;0;13,86;0;96,14;50;46,14
+Vinicius  ;cinto grife;;6;33,00;198;0;13,21;0;184,79;90;94,79
+Vinicius  ;Copo Stanley;;3;44,00;132;0;12,69;0;119,31;108;11,31
+Vinicius  ;Corrente  De Prata 3,5 MM;;3;176,00;528;0;31,68;0;496,32;240;256,32
+Vinicius  ;corrente 80;;1;220,00;220;0;29,11;0;190,89;0;-
+Vinicius  ;Corrente De Moeda 100;;4;110,00;440;0;40;0;400;180;220
+Vinicius  ;Corrente De Prata 1,5 MM;;3;77,00;231;0;14,67;0;216,33;90;126,33
+Vinicius  ;Corrente De Prata 2 MM;;8;110,00;880;0;55;0;825;368;457
+Vinicius  ;Corrente De Prata 4 MM;;1;240,00;240;0;0;0;240;110;130
+Vinicius  ;Corrente De Prata 5 MM;;1;360,00;360;0;20;0;340;165;175
+Vinicius  ;Corrente De Prata 6 MM;;1;440,00;440;0;55;0;385;205;180
+Vinicius  ;Corrente Friso S;;3;200,00;600;0;19,32;0;580,68;270;310,68
+Vinicius  ;Corrente Moeda 70;;6;77,00;462;0;33,16;0;428,84;210;218,84
+Vinicius  ;Corta Vento;;2;130,00;260;0;24,71;0;235,29;116;119,29
+Vinicius  ;Cueca Simples;;50;12,00;600;0;56,39;0;543,61;250;293,61
+Vinicius  ;Cuecas Algodão;;28;21,21;594;0;57,54;0;536,46;224;312,46
+Vinicius  ;Cuia;;3;20,00;60;0;9,05;0;50,95;30;20,95
+Vinicius  ;Dechavador;;3;5,00;15;0;0,75;0;14,25;6;8,25
+Vinicius  ;Diferença De Troca;;10;50,00;500;0;225;0;275;0;-
+Vinicius  ;Dri-fit Recortada;;7;55,00;385;0;29,25;0;355,75;0;-
+Vinicius  ;Elo Baiano;;1;100,00;100;0;0;0;100;45;55
+Vinicius  ;enchimento;;3;2,00;6;0;0;0;6;0;-
+Vinicius  ;Escapulario Prata;;4;110,00;440;0;30;0;410;200;210
+Vinicius  ;Jeans Cordão;;4;70,00;280;0;9,15;0;270,85;0;-
+Vinicius  ;jeans original branca;;1;110,00;110;0;1,96;0;108,04;0;-
+Vinicius  ;Kenner  Rakka Full Force;;1;150,00;150;0;0;0;150;70;80
+Vinicius  ;Kenner Diamante;;5;150,00;750;0;31,84;0;718,16;350;368,16
+Vinicius  ;kenner kivah;;24;129,17;3100;0;178,06;0;2921,94;1320;1.601,94
+Vinicius  ;Kenner Kivah;;8;147,50;1180;0;72,5;0;1107,5;520;587,5
+Vinicius  ;Kenner rakka full force;;3;150,00;450;0;27,08;0;422,92;0;-
+Vinicius  ;kenner rakkab branca;;7;170,00;1190;0;93,1;0;1096,9;455;641,9
+Vinicius  ;Kit Cueca;;1;77,00;77;0;0;0;77;0;-
+Vinicius  ;Lego;;1;20,00;20;0;3,33;0;16,67;10;6,67
+Vinicius  ;Lente Transparente Mola;;2;120,00;240;0;40;0;200;100;100
+Vinicius  ;Maçarico;;7;20,00;140;0;10,23;0;129,77;73,5;56,27
+Vinicius  ;meia;;2;12,00;24;0;1,47;0;22,53;0;-
+Vinicius  ;mel do amor;;2;25,00;50;0;6,52;0;43,48;0;-
+Vinicius  ;Melzinho;;2;20,00;40;0;1,98;0;38,02;18;20,02
+Vinicius  ;Necessaire;;1;77,00;77;0;7;0;70;35;35
+Vinicius  ;Oculos De Grife;;2;44,00;88;0;8;0;80;34;46
+Vinicius  ;Oculos Juliett;;9;132,00;1188;0;162,6;0;1025,4;540;485,4
+Vinicius  ;Oculos Oakley;;2;50,00;100;0;4,55;0;95,45;34;61,45
+Vinicius  ;Oculos Vilão;;1;66,00;66;0;6,37;0;59,63;30;29,63
+Vinicius  ;Papel De Presente;;5;2,00;10;0;0,49;0;9,51;2,5;7,01
+Vinicius  ;Perfume Base De Oleo;;6;38,00;228;0;15,99;0;212,01;78;134,01
+Vinicius  ;Perfume Similar;;8;29,50;236;0;10,25;0;225,75;104;121,75
+Vinicius  ;Pingente De Moeda Antiga  G;;6;77,00;462;0;39,5;0;422,5;210;212,5
+Vinicius  ;Pingente De Prata;;5;55,00;275;0;20;0;255;115;140
+Vinicius  ;Pingente Moeda Antiga  P;;3;55,00;165;0;10,31;0;154,69;75;79,69
+Vinicius  ;Pingente Pedraria;;1;90,00;90;0;0;0;90;40;50
+Vinicius  ;Piteira Curta;;7;3,00;21;0;1,17;0;19,83;10,5;9,33
+Vinicius  ;Pochete;;2;55,00;110;0;10;0;100;46;54
+Vinicius  ;Polo Chronic;;2;110,00;220;0;22,31;0;197,69;91;106,69
+Vinicius  ;Polo Gucci;;13;55,00;715;0;46,4;0;668,6;299;369,6
+Vinicius  ;Polo Peruana;;8;110,00;880;0;43,48;0;836,52;440;396,52
+Vinicius  ;Pulseira De Prata 2MM;;3;66,00;198;0;11,77;0;186,23;84;102,23
+Vinicius  ;Pulseira De Prata 6 MM;;1;132,00;132;0;11,08;0;120,92;0;-
+Vinicius  ;Pulseira Moeda 70;;3;55,00;165;0;12,26;0;152,74;75;77,74
+Vinicius  ;Regata;;4;44,00;176;0;4,67;0;171,33;80;91,33
+Vinicius  ;Regata  Premium;;3;55,00;165;0;16,35;0;148,65;66;82,65
+Vinicius  ;Regata Americana;;18;55,00;990;0;77,12;0;912,88;432;480,88
+Vinicius  ;Regata Dri-fit;;5;44,00;220;0;19,83;0;200,17;100;100,17
+Vinicius  ;regata premium;;3;55,00;165;0;12,53;0;152,47;0;-
+Vinicius  ;Relogio Atlantis;;1;143,00;143;0;7,69;0;135,31;50;85,31
+Vinicius  ;relogio atlantis femenino;;1;132,00;132;0;1,87;0;130,13;0;-
+Vinicius  ;Relogio Bvlgari;;1;200,00;200;0;18,75;0;181,25;70;111,25
+Vinicius  ;Relogio G-Shock;;4;88,00;352;0;19,48;0;332,52;160;172,52
+Vinicius  ;Relogio Invicta;;1;230,00;230;0;30;0;200;100;100
+Vinicius  ;Relógio Pointer;;1;90,00;90;0;0;0;90;35;55
+Vinicius  ;relogio polyjane;;1;77,00;77;0;7;0;70;0;-
+Vinicius  ;Relogio Xufeng;;4;66,00;264;0;23,16;0;240,84;120;120,84
+Vinicius  ;Relogio Yakuyza;;1;143,00;143;0;13;0;130;35;95
+Vinicius  ;Sandalia Premium;;4;40,00;160;0;13,07;0;146,93;72;74,93
+Vinicius  ;Seda Bem Bolado;;4;5,00;20;0;1,2;0;18,8;0;-
+Vinicius  ;Seda Blunt;;8;10,00;80;0;3,78;0;76,22;80;-3,78
+Vinicius  ;Seda Zomo;;2;3,00;6;0;0,8;0;5,2;3;2,2
+Vinicius  ;Short Cargo;;3;77,00;231;0;8,08;0;222,92;96;126,92
+Vinicius  ;Short Cargo Premium;;11;110,00;1210;0;82,82;0;1127,18;550;577,18
+Vinicius  ;Short Dri-fit Premium;;38;88,00;3344;0;255,89;0;3088,11;0;-
+Vinicius  ;Short Impermeável;;2;55,00;110;0;11,32;0;98,68;46;52,68
+Vinicius  ;Short Jeans Premium;;61;82,00;5002;0;251,94;0;4750,06;2135;2.615,06
+Vinicius  ;Short Linho premium;;9;66,00;594;0;50,48;0;543,52;270;273,52
+Vinicius  ;spy cara de gato;;3;55,00;165;0;10;0;155;69;86
+Vinicius  ;Spy Premium;;4;57,75;231;0;23,52;0;207,48;92;115,48
+Vinicius  ;Spy Simples;;3;44,00;132;0;12;0;120;45;75
+Vinicius  ;Tênis;;3;100,00;300;0;19,94;0;280,06;120;160,06
+Vinicius  ;Tênis Air Force;;3;93,00;279;0;11;0;268;111;157
